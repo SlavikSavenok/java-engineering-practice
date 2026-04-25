@@ -5,4 +5,4 @@
     - Чётность (isEven)
     - FizzBuzz (fizzBuzz)
     - Гласные буквы через switch (isVowel)
-- Консольный калькулятор (SimpleCalculator) — в процессе
+- Консольный калькулятор (SimpleCalculator) 
